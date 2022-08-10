@@ -1,0 +1,10 @@
+name: Gommemode
+version: '${project.version}'
+main: me.lowlauch.gommemode.Main
+api-version: 1.19
+authors: [ lowlauch ]
+description: gommemode trolololol
+commands:
+  gommemode:
+    usage: /gommemode <0 - 1>
+    description: gommemode trolololol
